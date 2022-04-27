@@ -17,7 +17,6 @@
 ### File information
 
  * AV_job_a_thon_april_2022_EDA.ipynb
- 
     ### Packages Used,
         * seaborn
         * Pandas
@@ -27,8 +26,9 @@
         * re
     ### Basic Exploratory Data Analysis
     
+    
+    
 * AV_job_a_thon_april_2022_Model.ipynb
-
     ### Packages Used,
         * Sklearn
         * re
@@ -37,7 +37,6 @@
         * Matplotlib
         * lightgbm
         * shap
-      
      ### Data Pre-processing         
      ### Created  lightgbm regressor model. 
 
